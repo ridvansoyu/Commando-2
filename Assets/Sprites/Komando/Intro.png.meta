@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: b86fd2ee77b967b4c881fe33cca3c642
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Intro_0
+    21300002: Intro_11
+    21300004: Intro_2
+    21300006: Intro_7
+    21300008: Intro_9
+    21300010: Intro_1
+    21300012: Intro_10
+    21300014: Intro_8
+    21300016: Intro_3
+    21300018: Intro_12
+    21300020: Intro_6
+    21300022: Intro_4
+    21300024: Intro_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Intro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 162
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 161
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 161
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 161
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 81
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 80
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 81
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
